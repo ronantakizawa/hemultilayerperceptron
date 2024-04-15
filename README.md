@@ -1,2 +1,2 @@
 # heperceptron
-A Homorphically Encrypted Perceptron based Neural Network for Flower Classification
+A Homorphically Encrypted Multilayer Perceptron for Flower Classification
